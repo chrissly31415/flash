@@ -1,0 +1,5 @@
+#!/bin/bash
+g++ -c -I/home/loschen/programs/boost_1_57_0/boost -std=c++11 ./src/*.cpp
+g++  *.o -o flash -lboost_regex
+rm *.o
+
