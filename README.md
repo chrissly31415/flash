@@ -16,5 +16,6 @@ To compile use ./build
 [1] Statistical theory of the adsorption of interacting chain molecules. 1. Partition function, segment density distribution, and adsorption isotherms
 J. M. H. M. Scheutjens and G. J. Fleer
 The Journal of Physical Chemistry 1979 83 (12), 1619-1635
+
 [2] Polymers at interfaces, by G. J. Fleer, M. A. Cohen Stuart, J. M. H. M. Scheutjens, T. Cosgrove and B. Vincent. Chapman and Hall, London, 1993. Pp. xv + 502, price £65.00. ISBN 0-412-58160-4
 
