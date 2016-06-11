@@ -11,3 +11,5 @@ Plot results with gnuplot. E.g.
 
 gnuplot ps_ens3d.plt
 
+To compile use ./build
+
