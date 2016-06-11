@@ -19,3 +19,5 @@ The Journal of Physical Chemistry 1979 83 (12), 1619-1635
 
 [2] Polymers at interfaces, by G. J. Fleer, M. A. Cohen Stuart, J. M. H. M. Scheutjens, T. Cosgrove and B. Vincent. Chapman and Hall, London, 1993. Pp. xv + 502. ISBN 0-412-58160-4
 
+![example](/pics/ads_rab10_nco12_A.png)
+
