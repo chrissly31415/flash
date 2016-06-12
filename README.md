@@ -1,7 +1,7 @@
 # flash
 Simple C++ implementation of a numerical lattice theory [1,2] for polymer adsorption taking into account the weight distribution of (co)polymers.
 
-![example](/pics/ads_rab10_nco12_A.png)
+![example](/pics/example.png)
 
 Binary for Linux 64bit provided. Run with:
 
